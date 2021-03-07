@@ -1,0 +1,11 @@
+com\challenge\service\interfaces\SubmissionService.class
+com\challenge\repository\CompanyRepository.class
+com\challenge\service\interfaces\AccelerationService.class
+com\challenge\repository\SubmissionRepository.class
+com\challenge\service\interfaces\ChallengeService.class
+com\challenge\repository\AccelerationRepository.class
+com\challenge\service\interfaces\UserService.class
+com\challenge\service\interfaces\CompanyService.class
+com\challenge\repository\UserRepository.class
+com\challenge\repository\CandidateRepository.class
+com\challenge\service\interfaces\CandidateService.class
